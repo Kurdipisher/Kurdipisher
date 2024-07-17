@@ -337,6 +337,8 @@ ${RED}[${WHITE}00${RED}]${ORANGE} Exit
 		lovehacker_facebook
         elif [[ "$REPLY" == 3 || "$REPLY" == 03 ]]; then
 		lovehacker_facebook
+        elif [[ "$REPLY" == 4 || "$REPLY" == 04 ]]; then
+		lovehacker_facebook
 	elif [[ "$REPLY" == 99 ]]; then
 		about
 	elif [[ "$REPLY" == 0 || "$REPLY" == 00 ]]; then
